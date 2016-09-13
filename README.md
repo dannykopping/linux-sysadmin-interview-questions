@@ -163,6 +163,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What's LD_PRELOAD and when it's used?
 * You ran a binary and nothing happened. How would you debug this?
 * What are cgroups? Can you specify a scenario where you could use them?
+* How can you determine which config file(s) a program reads when it starts up? (`strace -e open program`)
 
 
 ####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
